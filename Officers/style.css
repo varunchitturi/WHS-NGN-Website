@@ -1,3 +1,4 @@
+
 .icon-bar {
     width: 22px;
     height: 2px;
@@ -66,60 +67,12 @@
     padding-top: 10px;
     width: 150px !important;
 }
-html,body{
-    background-color: #b8e0f7 !important;
-}
-#main-title{
-    margin-top: 160px;
-    background-color: #b8e0f7;
-    padding: 30px;
-}
-.title-text{
-    stroke-width: 700 !important;
-    font-weight: bold;
-    font-size: 50px;
-}
-.container{
-    padding: 30px;
-    margin: 30px;
-}
-.container-fluid{
-    background-color: white;
-    margin-top: 50px;
-}
-#stock-img{
-    background-color: #2b7bbb;
-    padding: 50px;
-    border-radius: 10px;
-}
-.stock-button{
-    background-color: black;
-    padding: 15px 5px;
-    margin: 10px;
-}
-.col{
-    min-width: 500px;
-}
-#stock-text-col{
-    margin-top: 30px;
-}
-.tba-text{
-    color: white !important;
-    font-size: 80px !important;
-    stroke-width: 700 !important;
-    font-weight: bold;
-    background-color: black;
-    padding: 50px 30px;
-}
-.march-img{
-    border: white solid 5px;
-    margin: 5px;
-    box-shadow: 4px 4px 4px 4px #a9a9a9;
-}
+
 footer{
     background-color: #e3f2fc;
     padding: 30px;
 }
+
 .fa-facebook{
     margin-right: 30px;
     font-size: 47px !important;
@@ -137,22 +90,73 @@ footer{
     padding: 3px 49px 3px 6px;
     border-radius: 10px;
 }
+
 .header-insta{
     margin-top: 11px;
 }
 .fa:hover{
     opacity: 0.7;
 }
-#footer-container{
-    background-color: #e3f2fc;
+.fa-envelope-o{
+    color: white;
+    background-color: #f4505a;
+    padding: 20px;
+    font-size:25px !important;
+    border-radius: 10px;
 }
-.stock-button:hover{
+.touch-button{
+    background-color: #4290c8;
+    color: white;
+    padding: 10px;
+    position: center;
+    width: 200px;
+}
+.touch-button:hover{
+    opacity: 0.7;
+}
+.touch-link{
+    width: 200px !important;
+}
+#main-title-row{
+    margin-top: 200px;
+    background-color: #a7b0b0;
+}
+html,body{
+    background-color: #a7b0b0 !important;
+}
+.main-container{
+    background-color: #ec8336;
+    padding: 50px;
+    margin: 30px;
+
+}
+.officer-img{
+    border: 10px solid white;
+    margin: 5px;
+}
+.main-fluid{
+    background-color: #a7b0b0;
+    padding: 50px;
+}
+hr{
+    width: 350px !important;
+    background-color: black !important;
+}
+.fa-2{
+    font-size: 30px !important;
+    margin: 15px;
+    border-radius: 50%;
+}
+.fa:hover{
     opacity: 0.7;
 }
 .fa-envelope-o{
     color: white;
-    background-color: #f4505a;
     padding: 15px;
-    font-size: 25px !important;
-    border-radius: 10px;
+    background-color: #f4505a;
+}
+.fa-linkedin{
+    color: white;
+    padding: 15px 18px;
+    background-color: #2d82b7;
 }

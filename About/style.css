@@ -68,16 +68,6 @@
     width: 150px !important;
 }
 
-#action-container-fluid{
-    margin: 5px;
-    border: #a2a2a2 5px solid;
-    border-radius: 15px;
-}
-.action-img:hover{
-    margin-top: -10px;
-    margin-bottom: 10px;
-    box-shadow: 4px 4px 4px 4px #6d6d6d;
-}
 footer{
     background-color: #e3f2fc;
     padding: 30px;
@@ -103,12 +93,14 @@ footer{
     padding: 3px 49px 3px 6px;
     border-radius: 10px;
 }
-.email-icon{
-    width: 55px;
-    background-color: #f8a894;
-    padding: 5px;
+.fa-envelope-o{
+    color: white;
+    background-color: #f4505a;
+    padding: 15px;
+    font-size: 25px !important;
     border-radius: 10px;
 }
+
 .header-insta{
     margin-top: 11px;
 }

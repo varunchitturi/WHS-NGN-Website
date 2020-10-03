@@ -20,13 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2b8586e-428d-4b00-a2a2-487552523b84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/About/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Events/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/grow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Officers/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/officers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/About/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/About/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Events/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Index/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Index/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,9 +86,13 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WHS-NGN-Website/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="officers.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WHS-NGN-Website/officers.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.events.html" />
+        <item itemvalue="JavaScript Debug.officers.html" />
         <item itemvalue="JavaScript Debug.about.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -109,7 +114,7 @@
       <workItem from="1601280973947" duration="29000" />
       <workItem from="1601282801582" duration="5886000" />
       <workItem from="1601628670123" duration="1024000" />
-      <workItem from="1601713712051" duration="2843000" />
+      <workItem from="1601713712051" duration="5389000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1601108863928</created>
@@ -118,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601108863928</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="events">
+      <created>1601716640165</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601716640165</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +150,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="events" />
+    <option name="LAST_COMMIT_MESSAGE" value="events" />
   </component>
   <component name="WindowStateProjectService">
     <state x="73" y="83" key="SettingsEditor" timestamp="1601101890181">
@@ -146,13 +159,17 @@
     </state>
     <state x="73" y="83" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601101890181" />
     <state x="2223" y="196" key="SettingsEditor/1792.63.1920.1057/-1920.63.1920.1057/0.23.1792.1034@1792.63.1920.1057" timestamp="1600850309328" />
+    <state x="-1310" y="297" key="Vcs.Push.Dialog.v2" timestamp="1601716641530">
+      <screen x="-1920" y="63" width="1920" height="1057" />
+    </state>
+    <state x="-1310" y="297" key="Vcs.Push.Dialog.v2/1792.63.1920.1057/-1920.63.1920.1057/0.23.1792.1032@-1920.63.1920.1057" timestamp="1601716641530" />
     <state x="2373" y="273" key="run.anything.popup" timestamp="1601106361127">
       <screen x="1792" y="63" width="1920" height="1057" />
     </state>
     <state x="2373" y="273" key="run.anything.popup/1792.63.1920.1057/-1920.63.1920.1057/0.23.1792.1032@1792.63.1920.1057" timestamp="1601106361127" />
-    <state x="-1295" y="297" width="670" height="676" key="search.everywhere.popup" timestamp="1601714266245">
+    <state x="-1295" y="297" width="670" height="676" key="search.everywhere.popup" timestamp="1601718615567">
       <screen x="-1920" y="63" width="1920" height="1057" />
     </state>
-    <state x="-1295" y="297" width="670" height="676" key="search.everywhere.popup/1792.63.1920.1057/-1920.63.1920.1057/0.23.1792.1032@-1920.63.1920.1057" timestamp="1601714266245" />
+    <state x="-1295" y="297" width="670" height="676" key="search.everywhere.popup/1792.63.1920.1057/-1920.63.1920.1057/0.23.1792.1032@-1920.63.1920.1057" timestamp="1601718615567" />
   </component>
 </project>
