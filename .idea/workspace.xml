@@ -20,11 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2b8586e-428d-4b00-a2a2-487552523b84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Images/WHSNGNLogo.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/About/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/About/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Events/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Events/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Index/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Index/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Officers/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Officers/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/officers.html" beforeDir="false" afterPath="$PROJECT_DIR$/officers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +77,7 @@
       <recent name="$PROJECT_DIR$/Images" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.about.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WHS-NGN-Website/about.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -87,10 +92,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.about.html" />
         <item itemvalue="JavaScript Debug.events.html" />
         <item itemvalue="JavaScript Debug.officers.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +120,7 @@
       <workItem from="1602135511310" duration="13000" />
       <workItem from="1602485205115" duration="630000" />
       <workItem from="1602559621165" duration="697000" />
-      <workItem from="1603174794557" duration="1996000" />
+      <workItem from="1603174794557" duration="2342000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1601108863928</created>
@@ -138,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601719429090</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix fonts">
+      <created>1603176998440</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603176998440</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +172,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="events" />
     <MESSAGE value="officers" />
-    <option name="LAST_COMMIT_MESSAGE" value="officers" />
+    <MESSAGE value="Fix fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix fonts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="546" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603175614117">
@@ -176,9 +189,10 @@
     </state>
     <state x="73" y="83" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601101890181" />
     <state x="2223" y="196" key="SettingsEditor/1792.63.1920.1057/-1920.63.1920.1057/0.23.1792.1034@1792.63.1920.1057" timestamp="1600850309328" />
-    <state x="-1310" y="297" key="Vcs.Push.Dialog.v2" timestamp="1601719430582">
-      <screen x="-1920" y="63" width="1920" height="1057" />
+    <state x="569" y="248" key="Vcs.Push.Dialog.v2" timestamp="1603176999964">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state x="569" y="248" key="Vcs.Push.Dialog.v2/1792.40.1920.1080/-1920.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1603176999964" />
     <state x="-1310" y="297" key="Vcs.Push.Dialog.v2/1792.63.1920.1057/-1920.63.1920.1057/0.23.1792.1032@-1920.63.1920.1057" timestamp="1601719430582" />
     <state x="2373" y="273" key="run.anything.popup" timestamp="1601106361127">
       <screen x="1792" y="63" width="1920" height="1057" />
