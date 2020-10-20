@@ -131,3 +131,11 @@ footer{
 .touch-link{
     width: 200px !important;
 }
+.title-text-2{
+    font-family: "Impact", sans-serif;
+}
+.story-title{
+    font-family: "Roboto", sans-serif !important;
+    font-weight: 700;
+    color: #2a78b5;
+}

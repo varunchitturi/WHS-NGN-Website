@@ -1,4 +1,5 @@
 
+
 .icon-bar {
     width: 22px;
     height: 2px;
@@ -83,11 +84,13 @@
     width: 500px;
 }
 .title-text{
+    font-family: "Impact", serif;
     stroke-width: 700 !important;
     font-weight: bold;
     font-size: 60px;
 }
 .title-text-2{
+    font-family: "Impact", sans-serif;
     stroke-width: 700 !important;
     font-weight: bold;
     font-size: 35px;

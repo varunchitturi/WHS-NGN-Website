@@ -134,6 +134,9 @@ html,body{
     border: 10px solid white;
     margin: 5px;
 }
+.officer-text{
+    font-family: "Impact", sans-serif;
+}
 .main-fluid{
     background-color: #a7b0b0;
     padding: 50px;
@@ -159,4 +162,19 @@ hr{
     color: white;
     padding: 15px 18px;
     background-color: #2d82b7;
+}
+.title-text{
+    font-family: "Impact", sans-serif;
+    stroke-width: 700 !important;
+    font-weight: bold;
+    font-size: 50px;
+}
+.title-text-2{
+    font-family: "Impact", sans-serif;
+    stroke-width: 700 !important;
+    font-weight: bold;
+    font-size: 35px;
+}
+.main-title-text{
+    font-family: "Impact", sans-serif;
 }

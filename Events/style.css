@@ -75,6 +75,7 @@ html,body{
     padding: 30px;
 }
 .title-text{
+    font-family: "Impact", sans-serif;
     stroke-width: 700 !important;
     font-weight: bold;
     font-size: 50px;
@@ -119,6 +120,12 @@ html,body{
 footer{
     background-color: #e3f2fc;
     padding: 30px;
+}
+.title-text-2{
+    font-family: "Impact", sans-serif;
+    stroke-width: 700 !important;
+    font-weight: bold;
+    font-size: 35px;
 }
 .fa-facebook{
     margin-right: 30px;
